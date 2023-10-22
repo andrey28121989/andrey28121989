@@ -1,4 +1,4 @@
-<img src="./assets/waterfalls.jpg" alt="foto profile" >
+<img src="./assets/promo.jpg" alt="foto profile" >
 
 ### Hi all, I'm Andrey - webDev 👋
 
