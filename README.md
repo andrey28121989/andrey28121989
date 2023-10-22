@@ -1,6 +1,6 @@
 <img src="./assets/promo.jpg" alt="foto profile" >
 
-### Hi all, I'm Andrey - webDev 👋
+### Hi all, I'm Andrey - front-end developer 👋
 
 <h3>About me</h3>
 <p>Hi! I am a person who changes his life and field of activity to web development. I want to improve my development skills.
