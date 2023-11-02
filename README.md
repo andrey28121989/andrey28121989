@@ -36,6 +36,11 @@ My main goal is to become a front-end developer and help companies solve problem
 <table>
   <tr>
     <td>
+      <a href="https://andrey28121989.github.io/rsschool-cv/" target="_blank" >RSschool-CV</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://andrey28121989.github.io/plants/plants/" target="_blank" >Plants</a>
     </td>
   </tr>
